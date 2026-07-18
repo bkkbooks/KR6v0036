@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6v0036_000-ZW.yaml, hash: 'sha256:3f69f4d3bc9ee627ef3f0f181cb8316f10f2eb16e991f752781d26360d9f4f2a'}
   - {seq: 1, filename: KR6v0036_001-ZW.yaml, hash: 'sha256:c84b1dd609c8594690bc3e0c400d0f63860041b69a2a59461d976acdb22b3c80'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0036_000-ZW.markers.yaml, hash: 'sha256:da0ed7a12408a39e3eb1f177fb9e132afe2672da091278d879313822a3b078a7'}
+  - {seq: 0, role: markers, filename: assets/KR6v0036_000-ZW.markers.yaml, hash: 'sha256:96b61e4a76c6f476ef38b5de20acf34b9aa30720c734304dd78d48972ddd9f4b'}
   - {seq: 1, role: markers, filename: assets/KR6v0036_001-ZW.markers.yaml, hash: 'sha256:6d1c7effa6c68504291bb9e2b79365a5361e467354e85d31b16672cca786612a'}
 table_of_contents:
 - ref:
@@ -55,4 +55,4 @@ table_of_contents:
   label: 金剛般若經疏
   type: juan
   level: 1
-hash: sha256:7934e5d27aecd8127f57d61d9539c775029ef86f69a04b2232a54c48280267fb
+hash: sha256:1677fd0c6293919a30c850dbdefd6875738da133e1d1fd7f65073dd8c10b246c
